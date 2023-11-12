@@ -1,0 +1,91 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="resume.css">
+</head>
+
+<body>
+	<div class="full">
+		<div class="left">
+			<div class="image">
+				<img align="right" src=
+"C:\Users\LENOVO\Downloads\Vignesh.jpeg"
+					alt="gfg-logo"
+					style="width:100px;height:100px;">
+			</div>
+			<div class="Contact">
+				<h2>VEERAPANDIYAN.S</h2>
+				<p><b>Email id:</b>VEERAKADALI12@GMAIL.COM</p>
+				<p><b>Mobile no :</b>9345876495</p>
+			</div>
+			<div class="Skills">
+				<h2>Skills</h2>
+				<ul>
+					<li><b>Programming Languages : 
+					Python, Java, C++</b></li>
+					
+				</ul>
+			</div>
+			<div class="Language">
+				<h2>Language</h2>
+				<ul>
+					<li>Tamil</li>
+					<li>English</li>
+				</ul>
+			</div>
+			<div class="Hobbies">
+				<h2>Hobbies</h2>
+				<ul>
+					<li>VOLLEY BALL</li>
+					<li>CHESS</li>
+				</ul>
+			</div>
+		</div>
+		<div class="right">
+			
+		
+			<div class="Summary">
+				<h2>Summary</h2>
+				<p>To secure a challenging position in a 
+				reputable organization
+					to expand my learning knowledge and skill
+				</p>
+			</div>
+			
+			<div class="Education">
+				<h2>Education</h2>
+				<table>
+					<tr>
+                                             <th>Description</th>
+						<th>University/college </th>
+						<th>Passing year </th>
+						<th>percentage/cgpa</th>
+					</tr>
+					<tr>
+                                            <td>SSLC</td>
+						<td>HIGH SECONARY SCHOOL,ANNAMANGALAM</td>
+						<td>2018</td>
+						<td>67%</td>
+                                             
+                                            <td>Hsc</td>
+						<td>HIGH SECONARY SCHOOL,DAVANUR</td>
+						<td>2020</td>
+						<td>60%</td>
+					</tr>
+					<tr><td>Bsc Computer Science</td>
+      						<td>Sanghamam College Of Arts And Science</td>
+						<td>2024</td>
+						<td>-</td>
+					</tr>
+				</table>
+			</div>
+			
+		</div>
+	</div>
+</body>
+
+</html>
